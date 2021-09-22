@@ -13,6 +13,8 @@ Instructions for deploying a file onto netlify
 
 - Now, create your own guide to creating a repository on your local machine. This time, use a bulleted list.
 
+- Create a colour picker, a date picker, and a slider using only html.
+
 - Dowload an image from unsplash and save into your folder. Use an appropriate html element to render it on this page.
   
 - Finally use an html element to connect this page and the page you created last week.
